@@ -26,9 +26,8 @@
 
 
   
-## 📫 Connect with Me!
-- 🌐 **Website**: [BuntyDataWorld.com](https://example.com)  
-- 💼 **LinkedIn**: [Bunty Mudi](https://www.linkedin.com/in/bunty-mudi-40a629210/))  
+## 📫 Connect with Me! 
+- 💼 **LinkedIn**: [Bunty Mudi](https://www.linkedin.com/in/bunty-mudi-40a629210/) 
 - 🐦 **Twitter**: [@bunty99107](https://twitter.com/bunty99107)  
 - 📧 **Email**: buntymudi1998@gmail.com  
 
