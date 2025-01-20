@@ -40,8 +40,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buntysl&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buntysl&layout=compact&theme=radical)  
-
----
-
-**Let’s connect and turn data into actionable stories!** 🚀
-
