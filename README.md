@@ -1,6 +1,4 @@
-![Pink Feminine Beauty Company Zoom Virtual Background](https://github.com/user-attachments/assets/a2079792-beaa-4156-a42d-6071ea385884)
 
- 
 <h1 align="center">Hi 👋, I am Bunty Mudi</h1>
 <h3 align="center">🌟 A Passionate Data Analyst Who Loves Turning Data Into Insights! </h3>                   
 
